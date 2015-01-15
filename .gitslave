@@ -2,3 +2,4 @@
 "../brahma-admin" "brahma-admin"
 "../brahma-android" "brahma-android"
 "../brahma-api" "brahma-api"
+"../brahma-client" "brahma-client"
