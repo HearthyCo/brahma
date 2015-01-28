@@ -1,7 +1,7 @@
 # BRAHMA
 
 ### 0.2.0 - POR MIS CONSULTAS
-_alpha 2; sprint 2; 20150126_
+_sprint 2; alpha 2; 20150126_
 
 * API
 	* Session
@@ -28,7 +28,7 @@ _alpha 2; sprint 2; 20150126_
 * apiDoc
 
 ### 0.1.0 - AMMAVARU
-_alpha 1; sprint 1; 20150112_
+_sprint 1; alpha 1; 20150112_
 
 * Mobile APPs prototypes
 * Sign up
