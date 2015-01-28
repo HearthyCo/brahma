@@ -1,0 +1,16 @@
+{
+  "name": "Brahma",
+  "version": "0.2.0",
+  "description": "sprint 2; alpha 2; POR MIS CONSULTAS",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:glue-gl/brahma.git"
+  },
+  "keywords": [
+    "brahma"
+  ]
+}
