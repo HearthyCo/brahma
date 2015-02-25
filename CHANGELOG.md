@@ -1,5 +1,15 @@
 # BRAHMA
 
+### 0.5.0 - ROGER
+_sprint 5; alpha 5; 20150310_
+
+* Chat 1-to-1
+* Attachments
+* Medical History view (fake)
+* Treatments view (fake)
+* Admin Panel
+* Sign up Professional
+
 ### 0.4.0 - POOL
 _sprint 4; alpha 4; 20150225 (+1)_
 
