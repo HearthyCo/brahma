@@ -2,6 +2,7 @@
 "../brahma-admin" "brahma-admin"
 "../brahma-android" "brahma-android"
 "../brahma-api" "brahma-api"
+"../brahma-chat" "brahma-chat"
 "../brahma-components" "brahma-components"
 "../brahma-css" "brahma-css"
 "../brahma-ios" "brahma-ios"
