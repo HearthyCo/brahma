@@ -1,7 +1,7 @@
 {
   "name": "Brahma",
-  "version": "0.3.0",
-  "description": "sprint 3; alpha 3; FORREST CRUMB",
+  "version": "0.4.0",
+  "description": "sprint 4; alpha 4; POOLS",
   "main": "package.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

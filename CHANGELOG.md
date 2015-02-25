@@ -1,5 +1,16 @@
 # BRAHMA
 
+### 0.4.0 - POOL
+_sprint 4; alpha 4; 20150225 (+1)_
+
+* Hearthy
+	* Professional panel
+	* Professional profile page
+* Chat pool
+* Chat assignation
+* Chat request
+* Paypal
+
 ### 0.3.0 - FORREST CRUMB
 _sprint 3; alpha 3; 20150110_
 
