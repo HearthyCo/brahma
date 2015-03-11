@@ -54,9 +54,6 @@ bower_components/
 ## Vagrant
 .vagrant
 
-## Gems
-Gemfile.lock
-
 ### SUBPROJECT SPECIFIC IGNORE
 
 /brahma-admin/
@@ -69,3 +66,9 @@ Gemfile.lock
 /brahma-misc/
 /hearthy-professional/
 /hearthy-client/
+
+## Public files
+/hearthy-professional-public/public
+/hearthy-professional-public/.force_push
+/hearthy-client-public/public
+/hearthy-client-public/.force_push
