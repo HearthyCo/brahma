@@ -1,7 +1,7 @@
 var http = require('http');
 var send = require('send');
 var url = require('url');
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3001;
 var app = http.createServer(function(req, res){
   // send object
   var s = send(req, url.parse(req.url).pathname, {root: 'public'});
