@@ -11,6 +11,7 @@
 *.iml
 .project
 .history
+*.sublime-workspace
 
 ## OS X
 .DS_Store
@@ -72,3 +73,4 @@ bower_components/
 /hearthy-professional-public/.force_push
 /hearthy-client-public/public
 /hearthy-client-public/.force_push
+
