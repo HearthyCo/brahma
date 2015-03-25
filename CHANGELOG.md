@@ -1,5 +1,18 @@
 # BRAHMA
 
+### 0.6.0 - WEASEL TV
+_sprint 6; alpha 6; 20150324_
+
+* Videochat
+* Admin Panel + CRUD Professionals
+* Treatments calendar
+* Dev Server
+* Notification server
+* Mails
+* Attachments preview
+* Change avatar
+* Session list
+
 ### 0.5.0 - ROGER
 _sprint 5; alpha 5; 20150310_
 
