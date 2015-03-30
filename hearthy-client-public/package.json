@@ -1,6 +1,6 @@
 {
   "name": "hearthy-client-public",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "description": "Hearthy web-client for Client role (static server)",
   "author": "Glue.gl",
   "repository": {

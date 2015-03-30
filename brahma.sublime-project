@@ -6,7 +6,8 @@
 			[
 				"*/node_modules",
 				"*/brahma_modules",
-				"brahma-components/dist"
+				"brahma-components/dist",
+				"brahma-css/bower_components"
 			],
 			"follow_symlinks": true,
 			"path": "."
