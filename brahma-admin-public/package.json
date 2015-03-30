@@ -1,0 +1,21 @@
+{
+  "name": "brahma-admin-public",
+  "version": "0.7.0",
+  "description": "Brahma web-client for Admin role (static server)",
+  "author": "Glue.gl",
+  "repository": {
+    "type": "git",
+    "url": "dokku@dev01.glue.gl:brahma-admin-dev"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "send": "^0.12.1"
+  },
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": ">=2.1.6"
+  }
+}
