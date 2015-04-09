@@ -8,7 +8,8 @@
 				"*/brahma_modules",
 				"brahma-components/dist",
 				"brahma-css/bower_components",
-				"brahma-components/.idea"
+				"brahma-components/.idea",
+				".idea"
 			],
 			"follow_symlinks": true,
 			"path": "."
