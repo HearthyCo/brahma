@@ -9,7 +9,11 @@
 				"brahma-components/dist",
 				"brahma-css/bower_components",
 				"brahma-components/.idea",
-				".idea"
+				".idea",
+				"brahma-api/.idea_modules",
+				"brahma-api/projectFilesBackup",
+				"brahma-api/project",
+				".sass-cache"
 			],
 			"follow_symlinks": true,
 			"path": "."
