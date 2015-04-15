@@ -1,5 +1,20 @@
 # BRAHMA
 
+### 0.7.0 - SPACE ROBOTS
+_sprint 7; alpha 7; 20150415_
+
+* Android
+	* Webapp
+	* Native: topbar, menu
+	* Breadcrumb
+* Professional: close, report, payment
+* Flash error messages
+* Form error messages
+* Landing page
+* Demo build
+* Fixed password on admin panel
+* New api doc: Swagger
+
 ### 0.6.0 - WEASEL TV
 _sprint 6; alpha 6; 20150324_
 
