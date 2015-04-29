@@ -10,3 +10,4 @@
 "../hearthy-client" "hearthy-client"
 "../hearthy-client-ios" "hearthy-client-ios"
 "../hearthy-landing-page" "hearthy-landing-page"
+"git@gitlab.com:hearthy/hearthy-client.git" "hearthy-client"
