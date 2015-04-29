@@ -11,3 +11,4 @@
 "../hearthy-client-ios" "hearthy-client-ios"
 "../hearthy-landing-page" "hearthy-landing-page"
 "git@gitlab.com:hearthy/hearthy-client.git" "hearthy-client"
+"git@gitlab.com:hearthy/hearthy-client-ios.git" "hearthy-client-ios"
