@@ -1,5 +1,16 @@
 # BRAHMA
 
+### 0.8.0 - FRANKENSTEIN
+_sprint 8; alpha 8; 20150429_
+
+* Android
+	* Native video (OpenTok)
+	* Native PayPal
+* Push notifications
+* iOS WebApp (w/o video)
+* Real-time pools counters
+* Several issues fixed
+
 ### 0.7.0 - SPACE ROBOTS
 _sprint 7; alpha 7; 20150415_
 
