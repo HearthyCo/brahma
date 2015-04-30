@@ -58,26 +58,22 @@ bower_components/
 ### SUBPROJECT SPECIFIC IGNORE
 
 /brahma-admin/
-/brahma-android/
 /brahma-api/
 /brahma-chat/
 /brahma-components/
 /brahma-css/
 /brahma-misc/
 /brahma-notifications/
-/hearthy-professional/
 /hearthy-client/
+/hearthy-client-android/
 /hearthy-client-ios/
 /hearthy-landing-page/
+/hearthy-professional/
 
 ## Public files
-/hearthy-professional-public/public
-/hearthy-professional-public/.force_push
-/hearthy-client-public/public
-/hearthy-client-public/.force_push
 /brahma-admin-public/public
 /brahma-admin-public/.force_push
-/hearthy-client/
-/hearthy-client-ios/
-/hearthy-professional/
-/hearthy-landing-page/
+/hearthy-client-public/public
+/hearthy-client-public/.force_push
+/hearthy-professional-public/public
+/hearthy-professional-public/.force_push

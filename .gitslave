@@ -1,5 +1,4 @@
 "../brahma-admin" "brahma-admin"
-"../brahma-android" "brahma-android"
 "../brahma-api" "brahma-api"
 "../brahma-chat" "brahma-chat"
 "../brahma-components" "brahma-components"
@@ -8,5 +7,6 @@
 "../brahma-notifications" "brahma-notifications"
 "git@gitlab.com:hearthy/hearthy-professional.git" "hearthy-professional"
 "git@gitlab.com:hearthy/hearthy-client.git" "hearthy-client"
+"git@gitlab.com:hearthy/hearthy-client-android.git" "hearthy-client-android"
 "git@gitlab.com:hearthy/hearthy-client-ios.git" "hearthy-client-ios"
 "git@gitlab.com:hearthy/hearthy-landing-page.git" "hearthy-landing-page"

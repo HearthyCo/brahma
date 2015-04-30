@@ -13,7 +13,13 @@
 				"brahma-api/.idea_modules",
 				"brahma-api/projectFilesBackup",
 				"brahma-api/project",
-				".sass-cache"
+				".sass-cache",
+				"hearthy-client/public",
+				"hearthy-client-public",
+				"hearthy-professional-public",
+				"hearthy-professional/public",
+				"brahma-admin-public",
+				"brahma-admin/public"
 			],
 			"follow_symlinks": true,
 			"path": "."
